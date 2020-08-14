@@ -1,0 +1,11 @@
+openbox 
+xbacklight 
+feh 
+conky 
+xorg-x11-drv-libinput 
+tint2 
+volumeicon 
+xorg-x11-server-utils 
+network-manager-applet
+scrot
+htop

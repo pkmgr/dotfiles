@@ -1,0 +1,7 @@
+jgmenu
+cairo-devel
+xcb-util-devel
+libxcb-devel
+xcb-proto
+xcb-util-image-devel
+xcb-util-wm-devel
