@@ -7,10 +7,13 @@ python3-pip
 python3-setuptools
 xdotool
 python-lxml
+python-pil
 python3-lxml
+python3-pil
 links
 nano
 ibus
 mlocate
 libjpeg-dev
 fd-find
+zlib1g-dev
