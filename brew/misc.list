@@ -1,13 +1,6 @@
 curl
 wget
 lynx
-libao4
-libaosd2
-python3-pip
-python3-setuptools
-xdotool
-python3-lxml
 links
 nano
-ibus
-mlocate
+locate
