@@ -8,6 +8,7 @@ acpid
 blueman
 catfish
 conky
+dmenu
 firefox
 gnome-settings-daemon
 gtk2-engines
@@ -30,3 +31,5 @@ xfce4-power-manager
 xfce4-terminal
 xscreensaver
 xsettingsd
+xterm
+
