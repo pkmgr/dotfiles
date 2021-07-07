@@ -2,4 +2,4 @@ neovim
 python3-websocket
 python3-sexpdata
 rsync
-ctags
+exuberant-ctags
