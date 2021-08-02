@@ -3,3 +3,4 @@ python3-websocket
 python3-sexpdata
 rsync
 exuberant-ctags
+libxext-dev
