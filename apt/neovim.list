@@ -5,3 +5,4 @@ rsync
 exuberant-ctags
 libxext-dev
 lua50
+libluajit-5.1-2
