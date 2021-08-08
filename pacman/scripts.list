@@ -6,7 +6,6 @@ python-setuptools
 net-tools
 fontconfig
 jq
-tinyfugue
 xclip
 curl
 wget
@@ -15,7 +14,7 @@ qalculate-gtk
 links
 html2text
 dictd
-speedtest-cli
+speedtest-cli-git
 rsync
 libcap
 nethogs
@@ -27,3 +26,4 @@ dunst
 byobu
 expect
 mlocate
+fortune-mod
