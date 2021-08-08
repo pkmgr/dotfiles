@@ -15,3 +15,4 @@ nethogs
 iftop
 iperf
 byobu
+gnu-getopt
