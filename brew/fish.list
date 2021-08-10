@@ -1,4 +1,5 @@
 fish
 direnv
 mercurial
-powerline
+coreutils
+powerline-go
