@@ -21,13 +21,13 @@ network-manager-gnome
 conky
 tint2
 libnotify-bin
-python-appindicator
+gir1.2-appindicator3-0.1
 wireless-tools
 gtk2-engines
 gtk2-engines-pixbuf
 gtk2-engines-murrine
 gtk2-engines-aurora
-gtk3-engines-unico
+gtk3-engines-xfce
 thunderbird
 pidgin
 hexchat
