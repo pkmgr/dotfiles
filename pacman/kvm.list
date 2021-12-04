@@ -1,0 +1,8 @@
+libvirt
+iptables-nft
+dnsmasq
+bridge-utils
+virt-manager
+virt-viewer
+swtpm
+qemu
