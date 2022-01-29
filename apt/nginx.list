@@ -1,0 +1,14 @@
+libnginx-mod-http-auth-pam
+libnginx-mod-http-dav-ext
+libnginx-mod-http-echo
+libnginx-mod-http-geoip
+libnginx-mod-http-geoip2
+libnginx-mod-http-image-filter
+libnginx-mod-http-subs-filter
+libnginx-mod-http-upstream-fair
+libnginx-mod-http-xslt-filter
+libnginx-mod-mail
+libnginx-mod-stream
+nginx-common
+nginx-full
+nginx
