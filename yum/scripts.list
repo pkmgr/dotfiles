@@ -14,7 +14,6 @@ dialog
 links
 html2text
 dictd
-speedtest-cli
 rsync
 setcap
 nethogs

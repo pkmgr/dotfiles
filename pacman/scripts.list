@@ -14,7 +14,6 @@ qalculate-gtk
 links
 html2text
 dictd
-speedtest-cli-git
 rsync
 libcap
 nethogs
@@ -27,3 +26,4 @@ byobu
 expect
 mlocate
 fortune-mod
+inetutils

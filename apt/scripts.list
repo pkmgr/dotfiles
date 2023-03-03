@@ -1,5 +1,3 @@
-#libgdk-pixbuf2.0-bin
-#libghc-gi-gdkpixbuf-prof
 gir1.2-gdkpixbuf-2.0
 bash
 zsh
@@ -18,7 +16,6 @@ qalc
 links
 html2text
 dict
-speedtest-cli
 software-properties-common
 rsync
 libcap2-bin
