@@ -6,4 +6,5 @@ net-tools
 coreutils
 sed 
 gawk
+shadow
 
