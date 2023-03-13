@@ -1,4 +1,9 @@
 perl-utils
 py3-pip
 libcap-utils
+procps
+net-tools
+coreutils
+sed 
+gawk
 
