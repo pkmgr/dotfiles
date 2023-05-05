@@ -1,1 +1,5 @@
+xorg 
+plasma 
 plasma-desktop
+plasma-wayland-session 
+kde-applications
